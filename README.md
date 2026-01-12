@@ -1,21 +1,18 @@
-<h1 align="center">Hi, I’m Akash 👋</h1>
-
-<h3 align="center">
-Full Stack Product Engineer <br/>
-Flutter • Backend • AI • IoT
-</h3>
+<h1 align="center">Hi 👋, I'm Akash Kalathiya</h1>
+<h3 align="center">Full Stack Product Engineer</h3>
 
 <p align="center">
+Flutter • Backend • AI • IoT <br/>
 Remote • Global
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-I build complex, production-ready applications end to end.
+I build **complex, production-ready applications** end to end.
 
-I focus on systems where **architecture, feasibility, and reliability**
+I work on systems where **architecture, feasibility, and reliability**
 matter more than speed or buzzwords.
 
 ---
@@ -27,66 +24,70 @@ matter more than speed or buzzwords.
 - Backend systems & real-time APIs
 - AI-enabled features (chat, voice, image)
 - IoT & hardware-connected applications
-- Cloud deployment & store releases
+- Cloud deployment & app store releases
 
 ---
 
-## 🛠️ Tech & Skills
+## 🛠️ Tech Stack
 
-### 💻 Product & Mobile
-- Flutter (Android, iOS, Web, macOS, Windows)
-- Native Android & iOS integrations
-- Background services & kiosk mode
+### 📱 Mobile & Product
+<p>
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
 
 ### ⚙️ Backend & APIs
-- Python (FastAPI)
-- Node.js
-- REST APIs & WebSockets
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
 
-### 🤖 AI & Automation
-- Conversational AI
-- Voice interfaces & TTS
-- Image generation
+### 🤖 AI
+<p>
+  <img src="https://img.shields.io/badge/Conversational_AI-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TTS-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Image_Generation-000000?style=for-the-badge"/>
+</p>
 
-### ☁️ Cloud & Infrastructure
-- AWS
-- Managed hosting
-
-### 🔌 IoT & Hardware
-- BLE
-- ESP32
-- Sensor data
-- MQTT
+### ☁️ Cloud & IoT
+<p>
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BLE-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MQTT-000000?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📦 Selected Work
+## 📦 Selected Projects
 
 - **Location & Activity Tracking App**  
   Background GPS tracking, offline persistence, camera + metadata, backend sync.
 
 - **AI-Powered Mobile App**  
-  Conversational AI, voice generation, image generation, persistent history.
+  Conversational AI, voice & image generation, persistent history.
 
 - **Background Automation System**  
-  Continuous background execution using native Android integrations.
+  Continuous background execution with native Android integrations.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-<p align="left">
-<a href="https://www.linkedin.com/in/akash-kalathiya-457530159" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/YOUR_X_HANDLE" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/akash-kalathiya-457530159">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/YOUR_X_HANDLE">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <sub>
-Minimal by design.  
-Focused on real systems, not surface-level demos.
+Minimal visuals. Serious engineering. Real systems.
 </sub>
