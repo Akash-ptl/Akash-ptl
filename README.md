@@ -14,7 +14,7 @@ Remote • Global
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=Akash-ptl&style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ or already struggling due to architectural complexity.
 
 ### 🤖 AI & Automation
 ![Conversational AI](https://img.shields.io/badge/Conversational_AI-000000?style=for-the-badge)
-![TTS](https://img.shields.io/badge/Text_to_Speech-000000?style=for-the-badge)
+![Text to Speech](https://img.shields.io/badge/Text_to_Speech-000000?style=for-the-badge)
 ![Image Generation](https://img.shields.io/badge/Image_Generation-000000?style=for-the-badge)
 
 ### ☁️ Cloud & IoT
@@ -67,12 +67,12 @@ or already struggling due to architectural complexity.
 ## 📈 Activity
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=minimal" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Akash-ptl&theme=minimal" />
 </p>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vue" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=vue" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akash-ptl&show_icons=true&theme=vue" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-ptl&theme=vue" />
 </p>
 
 ---
