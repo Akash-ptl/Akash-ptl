@@ -94,16 +94,14 @@ Android • iOS • Web • Desktop
 ## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Akash-ptl&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-ptl&theme=github-compact" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akash-ptl&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-ptl&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akash-ptl&show_icons=true&count_private=true&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-ptl&hide_border=true" />
 </p>
 
 ---
