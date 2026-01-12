@@ -1,113 +1,92 @@
-<h1 align="center">Akash Kalathiya</h1>
-<p align="center">
-  Full Stack Product Engineer
-</p>
+<h1 align="center">Hi, I’m Akash 👋</h1>
+
+<h3 align="center">
+Full Stack Product Engineer <br/>
+Flutter • Backend • AI • IoT
+</h3>
 
 <p align="center">
-  Flutter · Backend · AI · IoT<br/>
-  Remote · Global
+Remote • Global
 </p>
 
 ---
 
-### 👋 Overview
+## 🧠 About Me
 
-I build complex, production-ready products end to end.
+I build complex, production-ready applications end to end.
 
-My work focuses on systems where **architecture, reliability, and feasibility**
+I focus on systems where **architecture, feasibility, and reliability**
 matter more than speed or buzzwords.
 
-I usually work on products that are technically non-trivial
-or already failing due to architectural complexity.
+---
+
+## 🚀 What I Do
+
+- End-to-end product engineering
+- Flutter apps (Android, iOS, Web, Desktop)
+- Backend systems & real-time APIs
+- AI-enabled features (chat, voice, image)
+- IoT & hardware-connected applications
+- Cloud deployment & store releases
 
 ---
 
-### 🧠 What I Work On
+## 🛠️ Tech & Skills
 
-• End-to-end product engineering  
-• Cross-platform Flutter apps with native & background capabilities  
-• Scalable backend systems and real-time architectures  
-• AI-enabled features integrated into real products  
-• Hardware & IoT-connected applications  
-• Cloud deployment and store releases  
+### 💻 Product & Mobile
+- Flutter (Android, iOS, Web, macOS, Windows)
+- Native Android & iOS integrations
+- Background services & kiosk mode
 
----
+### ⚙️ Backend & APIs
+- Python (FastAPI)
+- Node.js
+- REST APIs & WebSockets
 
-### 🛠️ Technical Focus
+### 🤖 AI & Automation
+- Conversational AI
+- Voice interfaces & TTS
+- Image generation
 
-**Product Engineering & System Design**  
-Feasibility analysis · Architecture decisions · Risk evaluation  
+### ☁️ Cloud & Infrastructure
+- AWS
+- Managed hosting
 
-**Flutter (Multi-Platform)**  
-Android · iOS · Web · macOS · Windows  
-
-**Backend Development**  
-Python (FastAPI) · Node.js  
-
-**APIs & Real-Time Systems**  
-REST APIs · WebSockets  
-
-**AI-Enabled Features**  
-Conversational AI · Voice Interfaces · Image Generation · Text-to-Speech  
-
-**Cloud Architecture & Deployment**  
-AWS  
-
-**IoT & Hardware Integration**  
-BLE · ESP32 · Sensor Data · MQTT  
-
-**Document & Data Automation**  
-PDF Generation · Annotated Documents · Excel Automation  
-
-**App Distribution**  
-Google Play Store · Apple App Store  
+### 🔌 IoT & Hardware
+- BLE
+- ESP32
+- Sensor data
+- MQTT
 
 ---
 
-### 📦 Selected Work (Representative)
+## 📦 Selected Work
 
-**Location & Activity Tracking System**  
-Background GPS tracking, offline persistence, movement detection,
-camera capture with metadata, and backend synchronization.
+- **Location & Activity Tracking App**  
+  Background GPS tracking, offline persistence, camera + metadata, backend sync.
 
-**AI-Powered Mobile Application**  
-Conversational AI, voice generation, image generation,
-text-to-speech, and persistent conversation history.
+- **AI-Powered Mobile App**  
+  Conversational AI, voice generation, image generation, persistent history.
 
-**Background Automation System**  
-Continuous background execution with native Android integrations
-for reliability beyond framework limitations.
+- **Background Automation System**  
+  Continuous background execution using native Android integrations.
 
 ---
 
-### 🧩 How I Work
+## 📫 Connect With Me
 
-• I evaluate feasibility before committing to timelines  
-• I prioritize reliability over shortcuts  
-• I communicate risks early  
-• I design systems to scale, not just to ship  
-• I avoid over-engineering and under-thinking  
-
----
-
-### 🤝 When I’m a Good Fit
-
-• You’re building an MVP with real technical constraints  
-• You need background services, hardware access, or AI features done properly  
-• Your existing app is becoming hard to maintain or unreliable  
-• You want honest technical feedback before investing further  
-
----
-
-### 🔗 Connect
-
-• LinkedIn: https://www.linkedin.com/in/akash-kalathiya-457530159  
-• X (Twitter): https://x.com/<your_handle>
+<p align="left">
+<a href="https://www.linkedin.com/in/akash-kalathiya-457530159" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/YOUR_X_HANDLE" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+</a>
+</p>
 
 ---
 
 <sub>
-This profile is intentionally minimal.<br/>
-If you’re looking for flashy demos, I may not be the right fit.<br/>
-If you value thoughtful engineering and ownership, we can talk.
+Minimal by design.  
+Focused on real systems, not surface-level demos.
 </sub>
