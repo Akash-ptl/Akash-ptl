@@ -101,7 +101,6 @@ Android • iOS • Web • Desktop
 
 <p align="center">
 <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akash-ptl&show_icons=true&count_private=true" />
-<img width="48%" src="https://streak-stats.demolab.com?user=Akash-ptl" />
 </p>
 
 ---
