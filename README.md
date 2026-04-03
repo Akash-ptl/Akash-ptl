@@ -80,6 +80,11 @@ To bring architectures to life, I utilize the following ecosystem:
 </details>
 
 <details>
+  <summary><b>🌍 Independent Freelance Engineer</b> — <i>Full Stack & Mobile Architecture</i> (2023 – Present)</summary>
+  <p>Partnering with clients to build and deploy robust production applications, specializing in rapid MVP iteration, AI feature integrations, and complex scalable mobile architectures.</p>
+</details>
+
+<details>
   <summary><b>🧠 KGE Technologies Pvt Ltd</b> — <i>AI Backend Engineer & Flutter App Developer</i> (2023 & 2025)</summary>
   <p>Transverse roles: First architecting high-performance background tracking and offline sync components, then transitioning to engineer their core multi-tenant session-based AI backends with dynamic embedding models.</p>
 </details>
@@ -99,10 +104,7 @@ To bring architectures to life, I utilize the following ecosystem:
 
 <p align="center">
   <a href="https://github.com/Akash-ptl">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akash-ptl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
-  </a>
-  <a href="https://github.com/Akash-ptl">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akash-ptl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akash-ptl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
   </a>
 </p>
 
