@@ -94,11 +94,15 @@ To bring architectures to life, I utilize the following ecosystem:
 ## 📊 Overview
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-ptl&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Akash-ptl">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Akash-ptl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akash-ptl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
   </a>
   <a href="https://github.com/Akash-ptl">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-ptl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akash-ptl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 
