@@ -4,7 +4,7 @@ I'm Akash Kalathiya
 </h1>
 
 <h3 align="center">
-Flutter & Full Stack Developer
+Full Stack Flutter Developer & Product Engineer
 </h3>
 
 <p align="center">
@@ -20,12 +20,41 @@ Android • iOS • Web • Desktop
 
 ## 💫 About Me
 
-- 😄 Pronouns: He / Him  
-- 🔭 Currently working as a **Full Stack Product Engineer**  
-- 🌱 Actively working with **AI, LLMs, voice systems, and automation**  
-- 👯 Open to collaboration on **Flutter, AI, IoT, and complex mobile apps**  
+I am a **Full Stack Product Engineer** with 3+ years of experience building and deploying complex, production-ready applications across mobile, web, and desktop platforms. I specialize in end-to-end product development – from feasibility analysis and system architecture to development, cloud deployment, and store releases. I focus on delivering scalable, reliable systems for technically challenging products.
+
+- 🔭 Currently working as a **Full Stack Product Engineer** at **The Anantkaal**  
+- 🌱 Actively building with **AI, LLMs, voice systems, and IoT (ESP32) integration**  
+- 👯 Open to collaboration on **Flutter, AI, IoT, and complex mobile architectures**  
 - 💬 Ask me about **Flutter, background services, AI integration, or system design**  
-- ⚡ Fun fact: I enjoy solving **hard technical problems more than building demos**
+- ⚡ Fun fact: I enjoy solving **hard technical problems more than building simple demos**
+
+---
+
+## 🚀 Key Achievements
+- **End-to-End Delivery:** Led the development of multiple production mobile applications with full ownership from PRD definition to App Store / Play Store release.
+- **AI-Powered Experiences:** Developed *Gospel*, an AI mobile app integrating image generation, voice generation, text-to-speech, and semantic chat history.
+- **Background Automation:** Built background SMS automation and continuous GPS tracking systems running reliably on native Android via platform channels.
+- **IoT Integration:** Engineered Flutter apps connecting to ESP32 devices over BLE and MQTT for real-time sensor data handling.
+- **Rapid Prototyping:** Completed 35+ complex UI screens within 24 hours under tight deadlines using AI-assisted workflows.
+
+---
+
+## 💼 Experience
+
+### **The Anantkaal** | *Full Stack Product Engineer* (Mar 2023 – Present)
+- Developing end-to-end applications across Android, iOS, Web, macOS, and Windows using Flutter.
+- Architecting backend systems with Python (FastAPI) and Node.js, featuring WebSockets and real-time APIs.
+- Implementing advanced native features: kiosk mode, platform channel background services, and customized document generators (PDF, Excel).
+  
+### **KGE Technologies Pvt Ltd** | *AI Backend Engineer* (Aug 2025 – Oct 2025)
+- Built a multi-tenant AI chatbot platform backend in Python with AppId-based architecture.
+- Designed session-based chat utilizing MongoDB for vector similarity search and semantic embeddings.
+  
+### **Flyweis Technology** | *Flutter Developer* (Feb 2024 – Sep 2024)
+- Developed and optimized production mobile UI and integrated payment gateways (Razorpay) and real-time voice/video SDKs.
+  
+### **KGE Technologies Pvt Ltd** | *Flutter Developer Intern* (Feb 2023 – Mar 2023)
+- Built lightweight performance-critical background continuous GPS tracking and offline data synchronization systems.
 
 ---
 
@@ -49,6 +78,7 @@ Android • iOS • Web • Desktop
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSockets-ff9800?style=for-the-badge)
 
 ### 🤖 AI & Automation
