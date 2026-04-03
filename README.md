@@ -52,30 +52,42 @@ To bring architectures to life, I utilize the following high-performance ecosyst
 
 ### 💻 Code & Architecture
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,apple,vscode,arduino,github" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-6B4EFF?style=for-the-badge" />
+  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" height="40" /></a>
+  <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" height="40" /></a>
+  <a href="https://www.android.com"><img src="https://skillicons.dev/icons?i=android" height="40" /></a>
+  <a href="https://www.apple.com"><img src="https://skillicons.dev/icons?i=apple" height="40" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="40" /></a>
+  <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" height="40" /></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://cursor.com"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Antigravity-6B4EFF?style=for-the-badge" /></a>
 </p>
 
 ### 🤖 AI & Intelligence
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=openai" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge" />
+  <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
+  <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" /></a>
+  <a href="https://elevenlabs.io"><img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge" /></a>
 </p>
 
 ### ⚙️ Backend & Persistence
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,python,nodejs,mongodb,supabase,mysql" />
+  <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" height="40" /></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="40" /></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="40" /></a>
+  <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="40" /></a>
+  <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase" height="40" /></a>
+  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="40" /></a>
 </p>
 
 ### ☁️ Cloud & Connectivity
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,firebase" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="40" /></a>
+  <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="40" /></a>
+  <a href="https://www.hostinger.com"><img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" /></a>
+  <a href="https://termius.com"><img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white" /></a>
+  <a href="https://mqtt.org"><img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" /></a>
 </p>
 
 ---
