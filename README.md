@@ -1,142 +1,109 @@
-<h1 align="center">
-Hola <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45" />
-I'm Akash Kalathiya
-</h1>
+<!-- HERO BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Akash%20Kalathiya&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Flutter%20|%20AI%20|%20Backend&descAlignY=55&descSize=25" />
+</div>
 
 <h3 align="center">
-Full Stack Flutter Developer & Product Engineer
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Full+Stack+Product+Engineer;AI+%26+Backend+Architecture;IoT+%26+Hardware+Integration;Building+Scalable+Mobile+Apps" alt="Typing SVG" />
+  </a>
 </h3>
 
+<!-- SOCIAL BADGES -->
 <p align="center">
-Flutter • Backend • AI • IoT <br/>
-Android • iOS • Web • Desktop
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Akash-ptl&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-## 💫 About Me
-
-I am a **Full Stack Product Engineer** with 3+ years of experience building and deploying complex, production-ready applications across mobile, web, and desktop platforms. I specialize in end-to-end product development – from feasibility analysis and system architecture to development, cloud deployment, and store releases. I focus on delivering scalable, reliable systems for technically challenging products.
-
-- 🔭 Currently working as a **Full Stack Product Engineer** at **The Anantkaal**  
-- 🌱 Actively building with **AI, LLMs, voice systems, and IoT (ESP32) integration**  
-- 👯 Open to collaboration on **Flutter, AI, IoT, and complex mobile architectures**  
-- 💬 Ask me about **Flutter, background services, AI integration, or system design**  
-- ⚡ Fun fact: I enjoy solving **hard technical problems more than building simple demos**
-
----
-
-## 🚀 Key Achievements
-- **End-to-End Delivery:** Led the development of multiple production mobile applications with full ownership from PRD definition to App Store / Play Store release.
-- **AI-Powered Experiences:** Developed *Gospel*, an AI mobile app integrating image generation, voice generation, text-to-speech, and semantic chat history.
-- **Background Automation:** Built background SMS automation and continuous GPS tracking systems running reliably on native Android via platform channels.
-- **IoT Integration:** Engineered Flutter apps connecting to ESP32 devices over BLE and MQTT for real-time sensor data handling.
-- **Rapid Prototyping:** Completed 35+ complex UI screens within 24 hours under tight deadlines using AI-assisted workflows.
-
----
-
-## 💼 Experience
-
-### **The Anantkaal** | *Full Stack Product Engineer* (Mar 2023 – Present)
-- Developing end-to-end applications across Android, iOS, Web, macOS, and Windows using Flutter.
-- Architecting backend systems with Python (FastAPI) and Node.js, featuring WebSockets and real-time APIs.
-- Implementing advanced native features: kiosk mode, platform channel background services, and customized document generators (PDF, Excel).
-  
-### **KGE Technologies Pvt Ltd** | *AI Backend Engineer* (Aug 2025 – Oct 2025)
-- Built a multi-tenant AI chatbot platform backend in Python with AppId-based architecture.
-- Designed session-based chat utilizing MongoDB for vector similarity search and semantic embeddings.
-  
-### **Flyweis Technology** | *Flutter Developer* (Feb 2024 – Sep 2024)
-- Developed and optimized production mobile UI and integrated payment gateways (Razorpay) and real-time voice/video SDKs.
-  
-### **KGE Technologies Pvt Ltd** | *Flutter Developer Intern* (Feb 2023 – Mar 2023)
-- Built lightweight performance-critical background continuous GPS tracking and offline data synchronization systems.
-
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kalathiya-457530159)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AkashKalat85373)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash-ptl)
-
----
-
-## 💻 Tech Stack
-
-### 📱 Mobile & Product
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-### ⚙️ Backend & APIs
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSockets-ff9800?style=for-the-badge)
-
-### 🤖 AI & Automation
-![Chat AI](https://img.shields.io/badge/Conversational_AI-ff6f00?style=for-the-badge)
-![Voice AI](https://img.shields.io/badge/Voice_Generation-ff4081?style=for-the-badge)
-![Image AI](https://img.shields.io/badge/Image_Generation-9c27b0?style=for-the-badge)
-![TTS](https://img.shields.io/badge/Text--to--Speech-3f51b5?style=for-the-badge)
-
-### ☁️ Cloud & Infra
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🔌 IoT & Hardware
-![ESP32](https://img.shields.io/badge/ESP32-e7352c?style=for-the-badge)
-![BLE](https://img.shields.io/badge/BLE-2196f3?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
-
----
-
-## 🧰 IDEs & Tools
-
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Antigravity](https://img.shields.io/badge/Antigravity-6B4EFF?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
----
-
-## 🛒 Apps on Store
-
-[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](#)
-
----
-
-## 💻 Laptop & Environment
-
-![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_M2-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-iTerm2-000000?style=for-the-badge)
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-ptl&theme=github-compact" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akash-ptl&show_icons=true&count_private=true" />
+  <a href="https://www.linkedin.com/in/kashkalathiya-457530159/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:akashkalathiya46@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/AkashKalat85373"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Akash-ptl&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
+<!-- INTRO AND STREAKS -->
+<table align="center" style="border:none;">
+<tr style="border:none;">
+<td width="55%" style="border:none;" valign="top">
+
+## 💫 Who Am I?
+
+I'm a **Full Stack Product Engineer** with 3+ years of experience transforming complex ideas into production-ready platforms. While many developers focus on basic interfaces, I thrive on solving **hard technical pipelines**—from multi-tenant AI backends to native background OS integrations.
+
+* **Current Role**: Engineering robust, scalable applications at **The Anantkaal**.
+* **Superpowers**: Real-time architectures, Kiosk Mode behaviors, Conversational AI deployments, and deep physical-world connections (BLE, MQTT, ESP32).
+* **Motto**: *"I enjoy solving hard algorithmic problems more than building simple UI demos."*
+
+</td>
+<td width="45%" style="border:none;" valign="top">
+
+## 📈 Streak
+<a href="https://github.com/Akash-ptl">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-ptl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Arsenal
+
+To bring architectures to life, I utilize the following ecosystem:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,apple,fastapi,python,nodejs" /><br><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,aws,firebase,arduino,github,vscode,linux" />
+</p>
+
+---
+
+## 🏆 Key Achievements & Engineering Impact
+
+### 🤖 AI-Powered Applications & Backends
+- **Gospel Application**: Built a comprehensive AI mobile app embedding text-to-speech, rich voice generation, and semantic chat histories using on-device and cloud capabilities.
+- **Multi-Tenant Chatbots**: Designed Python/FastAPI backends using powerful AppId structures, supporting multiple distinct chatbots powered by MongoDB vector similarity searches and customizable guardrails.
+
+### ⚙️ Deep Mobile & Background Processing
+- **Background SMS Automation**: Devised continuous background services hooking directly into Android Native Channels, fetching APIs, and transmitting physical SMS invisibly.
+- **Continuous Tracking**: Developed ultra-lightweight offline/online synced GPS tracking executing resiliently in the background, mitigating thermal throttling and battery drain.
+
+### 🔌 Physical World Integration (IoT)
+- Engineered low-latency interaction pipelines between Flutter interfaces and physical **ESP32** devices utilizing **BLE** and **MQTT**—designed specifically for raw sensor logging and real-time visualization.
+
+---
+
+## 💼 Professional Timeline
+
+<details>
+  <summary><b>🏢 The Anantkaal</b> — <i>Full Stack Product Engineer</i> (Mar 2023 – Present)</summary>
+  <p>Leading end-to-end multi-platform development. Overseeing cloud deployments (AWS, Firebase), custom PDF/Excel engine generators, and deeply intertwined mobile-to-hardware protocols.</p>
+</details>
+
+<details>
+  <summary><b>🧠 KGE Technologies Pvt Ltd</b> — <i>AI Backend Engineer & Flutter App Developer</i> (2023 & 2025)</summary>
+  <p>Transverse roles: First architecting high-performance background tracking and offline sync components, then transitioning to engineer their core multi-tenant session-based AI backends with dynamic embedding models.</p>
+</details>
+
+<details>
+  <summary><b>🚀 Flyweis Technology</b> — <i>Flutter Developer</i> (Feb 2024 – Sep 2024)</summary>
+  <p>Integrated scalable Razorpay payment structures and 3rd-party real-time low-latency voice/video WebRTC communications into high-fidelity production applications.</p>
+</details>
+
+---
+
+## 📊 Overview
+
+<p align="center">
+  <a href="https://github.com/Akash-ptl">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Akash-ptl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Akash-ptl">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-ptl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+<!-- FOOTER -->
+<br>
 <div align="center">
-
-### Show some ❤️ by starring my repositories
-
+  <i><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Thank you for stopping by! Always open to connecting over new ideas and tough problems.</i>
 </div>
