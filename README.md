@@ -54,7 +54,7 @@ To bring architectures to life, I utilize the following high-performance ecosyst
 <p align="left">
   <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" height="40" /></a>
   <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" height="40" /></a>
-  <a href="https://www.android.com"><img src="https://skillicons.dev/icons?i=android" height="40" /></a>
+  <a href="https://www.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40" width="40" /></a>
   <a href="https://www.apple.com"><img src="https://skillicons.dev/icons?i=apple" height="40" /></a>
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="40" /></a>
   <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" height="40" /></a>
