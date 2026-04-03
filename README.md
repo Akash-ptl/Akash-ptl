@@ -70,6 +70,9 @@ To bring architectures to life, I utilize the following high-performance ecosyst
   <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
   <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" /></a>
+  <a href="https://deepseek.com"><img src="https://img.shields.io/badge/DeepSeek-4D6CFA?style=for-the-badge&logo=deepseek&logoColor=white" /></a>
+  <a href="https://openclaw.org"><img src="https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=ai&logoColor=white" /></a>
+  <a href="https://n8n.io"><img src="https://skillicons.dev/icons?i=n8n" height="40" /></a>
   <a href="https://elevenlabs.io"><img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge" /></a>
 </p>
 
@@ -143,6 +146,7 @@ To bring architectures to life, I utilize the following high-performance ecosyst
 
 ### 📄 Document & Workflow Automation
 - **High-Precision Engines**: Developing custom-tailored **Excel and PDF generation systems** with full styling and annotation support.
+- **n8n Orchestration**: Designing complex, self-healing automation workflows and multi-step AI agent pipelines using **n8n.io**.
 - **Enterprise Reports**: Specialized in transforming complex data streams into annotated, print-ready, and dynamically styled documents at scale.
 
 ### 🔌 High-End Integrations
