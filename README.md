@@ -48,27 +48,60 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 
 ## 🛠️ Technology Arsenal
 
-To bring architectures to life, I utilize the following ecosystem:
+To bring architectures to life, I utilize the following high-performance ecosystem:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,apple,fastapi,python,nodejs" /><br><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,aws,firebase,arduino,github,vscode,linux" />
+### 💻 Code & Architecture
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,apple,vscode,arduino,github" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-6B4EFF?style=for-the-badge" />
+</p>
+
+### 🤖 AI & Intelligence
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=openai" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge" />
+</p>
+
+### ⚙️ Backend & Persistence
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,python,nodejs,mongodb,supabase,mysql" />
+</p>
+
+### ☁️ Cloud & Connectivity
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,firebase" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
 </p>
 
 ---
 
-## 🏆 Key Achievements & Engineering Impact
+## 🏆 Specialized Expertise & Engineering Impact
 
-### 🤖 AI-Powered Applications & Backends
+### 🤖 Intelligence & Automation
 - **Gospel Application**: Built a comprehensive AI mobile app embedding text-to-speech, rich voice generation, and semantic chat histories using on-device and cloud capabilities.
-- **Multi-Tenant Chatbots**: Designed Python/FastAPI backends using powerful AppId structures, supporting multiple distinct chatbots powered by MongoDB vector similarity searches and customizable guardrails.
+- **Enterprise AI Backends**: Designed Python/FastAPI backends using powerful AppId structures, supporting multi-tenant chatbots with Grok/ChatGPT integrations and dynamic guardrails.
+- **Trading & Fintech**: Engineered algorithmic trading bots and custom dashboards for major trading clients, automating complex market logic and secure wallet interactions.
 
-### ⚙️ Deep Mobile & Background Processing
+### 🎮 Gaming & Interactive Expereinces
+- **2D Game Engineering**: Developed high-performance 2D multiplayer games (Ludo, Snake, Chess, and Battle Royale) directly within Flutter, optimizing frame rates and real-time state sync.
+- **Kiosk & Custom Displays**: Implementing low-level **Kiosk Mode** behaviors and fully responsive UIs for custom hardware displays and non-standard screen ratios.
+
+### ⚙️ Deep Mobile & OS Integration
 - **Background SMS Automation**: Devised continuous background services hooking directly into Android Native Channels, fetching APIs, and transmitting physical SMS invisibly.
-- **Continuous Tracking**: Developed ultra-lightweight offline/online synced GPS tracking executing resiliently in the background, mitigating thermal throttling and battery drain.
+- **Native Platform Channels**: Writing custom Kotlin/Swift bridges for background GPS tracking, thermal management, and hardware-level persistent services.
 
 ### 🔌 Physical World Integration (IoT)
-- Engineered low-latency interaction pipelines between Flutter interfaces and physical **ESP32** devices utilizing **BLE** and **MQTT**—designed specifically for raw sensor logging and real-time visualization.
+- **IoT Ecosystems**: Engineered low-latency interaction pipelines between Flutter and **ESP32** devices using **BLE**, **MQTT**, and **AWS IoT Core**.
+- **Hardware Control**: Writing custom Arduino/C++ firmware for ESP32 devices to work seamlessly with mobile interfaces.
+
+### 🧪 Research & Strategy
+- **Project Feasibility**: Analyzing PRDs, defining milestones, and researching "impossible" technical requirements to determine the best Flutter/Backend implementation path.
+- **Store Operations**: Managing the entire lifecycle for App Store and Play Store releases, including metadata, assets, and deployment strategies.
 
 ---
 
