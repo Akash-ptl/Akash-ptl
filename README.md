@@ -70,9 +70,9 @@ To bring architectures to life, I utilize the following high-performance ecosyst
   <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
   <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" /></a>
-  <a href="https://deepseek.com"><img src="https://img.shields.io/badge/DeepSeek-4D6CFA?style=for-the-badge&logo=deepseek&logoColor=white" /></a>
-  <a href="https://openclaw.org"><img src="https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=ai&logoColor=white" /></a>
-  <a href="https://n8n.io"><img src="https://skillicons.dev/icons?i=n8n" height="40" /></a>
+  <a href="https://deepseek.com"><img src="https://img.shields.io/badge/DeepSeek-007BFF?style=for-the-badge&logo=deepseek&logoColor=white" /></a>
+  <a href="https://openclaw.ai"><img src="https://img.shields.io/badge/OpenClaw-FF5733?style=for-the-badge&logo=ai&logoColor=white" /></a>
+  <a href="https://n8n.io"><img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" /></a>
   <a href="https://elevenlabs.io"><img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge" /></a>
 </p>
 
@@ -90,6 +90,7 @@ To bring architectures to life, I utilize the following high-performance ecosyst
 <p align="left">
   <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="40" /></a>
   <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="40" /></a>
+  <a href="https://www.wix.com"><img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" /></a>
   <a href="https://www.hostinger.com"><img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" /></a>
   <a href="https://termius.com"><img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white" /></a>
   <a href="https://mqtt.org"><img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" /></a>
