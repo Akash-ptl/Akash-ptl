@@ -30,6 +30,7 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 
 * **Current Role**: Engineering robust, scalable applications at **The Anantkaal**.
 * **Superpowers**: Real-time architectures, Kiosk Mode behaviors, Conversational AI deployments, and deep physical-world connections (BLE, MQTT, ESP32).
+* **Mission**: I am ready to tackle the most **complex and hardest technical tasks** for apps—everything from custom OS-level background services to high-stakes fintech engines.
 * **Motto**: *"I enjoy solving hard algorithmic problems more than building simple UI demos."*
 
 </td>
@@ -138,6 +139,15 @@ To bring architectures to life, I utilize the following high-performance ecosyst
   <summary><b>🚀 Flyweis Technology</b> — <i>Flutter Developer</i> (Feb 2024 – Sep 2024)</summary>
   <p>Integrated scalable Razorpay payment structures and 3rd-party real-time low-latency voice/video WebRTC communications into high-fidelity production applications.</p>
 </details>
+
+### 📄 Document & Workflow Automation
+- **High-Precision Engines**: Developing custom-tailored **Excel and PDF generation systems** with full styling and annotation support.
+- **Enterprise Reports**: Specialized in transforming complex data streams into annotated, print-ready, and dynamically styled documents at scale.
+
+### 🔌 High-End Integrations
+- **Payments & Wallets**: Implementing secure multi-provider structures like **Razorpay**, high-end crypto wallets, and 3rd-party banking APIs.
+- **Communications**: Deep experience with **Real-time Video/Audio Calling SDKs**, Chat SDKs, and robust Google Maps enterprise implementations.
+- **Physics & Logic**: Beyond simple apps, I work on **Crypto wallet protocols**, native background SIM/SMS handling, and custom hardware interfaces.
 
 ---
 
