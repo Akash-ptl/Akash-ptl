@@ -20,14 +20,10 @@
 ---
 
 <!-- INTRO AND STREAKS -->
-<table align="center" style="border:none; width: 100%;">
-<tr style="border:none;">
-<td width="55%" style="border:none;" valign="top">
-
+<!-- INTRO AND STREAKS -->
 <h2 align="left">
   <img src="https://api.iconify.design/lucide:user-2.svg?color=%232E86C1" height="42" align="absmiddle"/>&nbsp; Who Am I?
 </h2>
-
 
 I'm a **Full Stack Product Engineer** with 3+ years of experience transforming complex ideas into production-ready platforms. While many developers focus on basic interfaces, I thrive on solving **hard technical pipelines**—from multi-tenant AI backends to native background OS integrations.
 
@@ -36,20 +32,15 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 *   **Mission**: I am ready to tackle the most **complex and hardest technical tasks**—from custom OS services to high-stakes fintech engines.
 *   **Motto**: *"I enjoy solving hard algorithmic problems more than building simple UI demos."*
 
-</td>
-<td width="45%" style="border:none;" valign="top">
-
 <h2 align="left">
   <img src="https://api.iconify.design/lucide:zap.svg?color=%23F1C40F" height="42" align="absmiddle"/>&nbsp; Activity Streak
 </h2>
 
-<a href="https://github.com/Akash-ptl">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-ptl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
-</a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Akash-ptl">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-ptl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
+  </a>
+</p>
 
 <h2 align="left">
   <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2327AE60" height="42" align="absmiddle"/>&nbsp; Technology Arsenal
@@ -216,18 +207,12 @@ Integrated scalable Razorpay payment structures and 3rd-party real-time low-late
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-ptl&theme=tokyo-night&hide_border=true&bg_color=0D1117&cache_bust=1&area=true" width="100%" />
 </p>
 
-<table align="center" style="border:none; width: 100%;">
-<tr style="border:none;">
-<td width="60%" style="border:none;" valign="top">
+<p align="center">
   <a href="https://github.com/Akash-ptl">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akash-ptl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&cache_bust=1" width="100%"/>
+    <img src="https://github-readme-stats-alpha.vercel.app/api?username=Akash-ptl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&cache_bust=1" width="48%" align="center"/>
   </a>
-</td>
-<td width="40%" style="border:none;" valign="top">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akash-ptl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="100%"/>
-</td>
-</tr>
-</table>
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Akash-ptl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="45%" align="center"/>
+</p>
 
 <!-- FOOTER -->
 <p align="center">
