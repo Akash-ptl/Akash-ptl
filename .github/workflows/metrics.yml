@@ -12,29 +12,38 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Isometric Calendar (Building Look)
+      - name: Advanced Engineering City (Isometric)
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.isocalendar.fullyear.svg
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year # More dense building look
 
-      - name: Language & Activity Metrics
+      - name: Professional Pulse & Achievements
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           base_indepth: yes
           config_timezone: Asia/Kolkata
+          # Achievements Plugin (Shinny badges)
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_achievements_display: compact
+          # Languages Plugin (Deep Dive)
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, sass, scss
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: percentage
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          # Activity Plugin (Fixed Error)
           plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_activity_limit: 8
           plugin_activity_days: 14
           plugin_activity_filter: all
+          # Star count
+          plugin_stars: yes
+          plugin_stars_limit: 4
