@@ -90,7 +90,7 @@ To bring architectures to life, I utilize the following high-performance ecosyst
 <p align="left">
   <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="40" /></a>
   <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="40" /></a>
-  <a href="https://www.wix.com"><img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" /></a>
+
   <a href="https://www.hostinger.com"><img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" /></a>
   <a href="https://termius.com"><img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white" /></a>
   <a href="https://mqtt.org"><img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" /></a>
