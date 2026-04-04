@@ -25,7 +25,7 @@
 <tr style="border:none;">
 <td width="55%" style="border:none;" valign="top">
 
-## 💫 Who Am I?
+## <img src="https://api.iconify.design/lucide:user-2.svg?color=%232E86C1" height="25"/> Who Am I?
 
 I'm a **Full Stack Product Engineer** with 3+ years of experience transforming complex ideas into production-ready platforms. While many developers focus on basic interfaces, I thrive on solving **hard technical pipelines**—from multi-tenant AI backends to native background OS integrations.
 
@@ -37,7 +37,7 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 </td>
 <td width="45%" style="border:none;" valign="top">
 
-## 📈 Streak
+## <img src="https://api.iconify.design/lucide:zap.svg?color=%23F1C40F" height="25"/> Streak
 <a href="https://github.com/Akash-ptl">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-ptl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
 </a>
@@ -48,11 +48,11 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 
 ---
 
-## 🛠️ Technology Arsenal
+## <img src="https://api.iconify.design/lucide:settings.svg?color=%237F8C8D" height="25"/> Technology Arsenal
 
 To bring architectures to life, I utilize the following high-performance ecosystem:
 
-### 💻 Code & Architecture
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=%231ABC9C" height="20"/> Code & Architecture
 <p align="left">
   <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" height="40" /></a>
   <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" height="40" /></a>
@@ -65,7 +65,7 @@ To bring architectures to life, I utilize the following high-performance ecosyst
   <a href="#"><img src="https://img.shields.io/badge/Antigravity-6B4EFF?style=for-the-badge" /></a>
 </p>
 
-### 🤖 AI & Intelligence
+### <img src="https://api.iconify.design/lucide:cpu.svg?color=%239B59B6" height="20"/> AI & Intelligence
 <p align="left">
   <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
@@ -76,7 +76,7 @@ To bring architectures to life, I utilize the following high-performance ecosyst
   <a href="https://elevenlabs.io"><img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge" /></a>
 </p>
 
-### ⚙️ Backend & Persistence
+### <img src="https://api.iconify.design/lucide:database.svg?color=%23E67E22" height="20"/> Backend & Persistence
 <p align="left">
   <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" height="40" /></a>
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="40" /></a>
@@ -86,7 +86,7 @@ To bring architectures to life, I utilize the following high-performance ecosyst
   <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="40" /></a>
 </p>
 
-### ☁️ Cloud & Connectivity
+### <img src="https://api.iconify.design/lucide:cloud.svg?color=%233498DB" height="20"/> Cloud & Connectivity
 <p align="left">
   <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="40" /></a>
   <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="40" /></a>
@@ -98,7 +98,7 @@ To bring architectures to life, I utilize the following high-performance ecosyst
 
 ---
 
-## 🏆 Specialized Expertise & Engineering Impact
+## <img src="https://api.iconify.design/lucide:award.svg?color=%23F1C40F" height="25"/> Specialized Expertise & Impact
 
 ### 🤖 Intelligence & Automation
 - **Gospel Application**: Built a comprehensive AI mobile app embedding text-to-speech, rich voice generation, and semantic chat histories using on-device and cloud capabilities.
@@ -123,7 +123,7 @@ To bring architectures to life, I utilize the following high-performance ecosyst
 
 ---
 
-## 💼 Professional Timeline
+## <img src="https://api.iconify.design/lucide:briefcase.svg?color=%23A04000" height="25"/> Professional Timeline
 
 <details>
   <summary><b>🏢 The Anantkaal</b> — <i>Full Stack Product Engineer</i> (Mar 2023 – Present)</summary>
@@ -157,7 +157,7 @@ To bring architectures to life, I utilize the following high-performance ecosyst
 
 ---
 
-## 📊 Overview
+## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2327AE60" height="25"/> Overview
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-ptl&theme=tokyo-night&hide_border=true&bg_color=0D1117&cache_bust=1" width="100%" />
