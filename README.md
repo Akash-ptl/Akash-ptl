@@ -220,5 +220,5 @@ Integrated scalable Razorpay payment structures and 3rd-party real-time low-late
 <p align="center">
   <br>
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Waving hand"><br>
-  <i>Always open to connecting over new ideas and tough problems. Thank you for stopping by!</i>
+  <i>Always open to collaborating on innovative architectures and solving 'impossible' technical challenges. Let's build something exceptional together!</i>
 </p>
