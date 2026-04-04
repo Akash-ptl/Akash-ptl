@@ -26,7 +26,7 @@
   <tr style="border:none;">
     <td width="60%" style="border:none; vertical-align: top; padding-right: 20px;">
       
-## <img src="https://api.iconify.design/lucide:user-2.svg?color=%232E86C1" height="25"/> Who Am I?
+## <img src="https://api.iconify.design/lucide:user-2.svg?color=%232E86C1" height="25" valign="middle"/> Who Am I?
 
 I'm a **Full Stack Product Engineer** with 3+ years of experience transforming complex ideas into production-ready platforms. While many developers focus on basic interfaces, I thrive on solving **hard technical pipelines**—from multi-tenant AI backends to native background OS integrations.
 
@@ -38,7 +38,7 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
     </td>
     <td width="40%" style="border:none; vertical-align: top;">
       
-## <img src="https://api.iconify.design/lucide:zap.svg?color=%23F1C40F" height="25"/> Streak
+## <img src="https://api.iconify.design/lucide:zap.svg?color=%23F1C40F" height="25" valign="middle"/> Streak
 <a href="https://github.com/Akash-ptl">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-ptl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
 </a>
@@ -51,10 +51,10 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 
 <!-- TECHNOLOGY ARSENAL -->
 <br />
-## <img src="https://api.iconify.design/lucide:settings.svg?color=%237F8C8D" height="25"/> Technology Arsenal
+## <img src="https://api.iconify.design/lucide:settings.svg?color=%237F8C8D" height="25" valign="middle"/> Technology Arsenal
 <br />
 
-### <img src="https://api.iconify.design/lucide:terminal.svg?color=%231ABC9C" height="20"/> Code & Architecture
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=%231ABC9C" height="20" valign="middle"/> Code & Architecture
 <p align="left">
   <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" height="45" /></a> &nbsp;
   <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" height="45" /></a> &nbsp;
@@ -68,7 +68,7 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 </p>
 <br />
 
-### <img src="https://api.iconify.design/lucide:cpu.svg?color=%239B59B6" height="20"/> AI & Intelligence
+### <img src="https://api.iconify.design/lucide:cpu.svg?color=%239B59B6" height="20" valign="middle"/> AI & Intelligence
 <p align="left">
   <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="35" /></a> &nbsp;
   <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="35" /></a> &nbsp;
@@ -80,7 +80,7 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 </p>
 <br />
 
-### <img src="https://api.iconify.design/lucide:database.svg?color=%23E67E22" height="20"/> Backend & Persistence
+### <img src="https://api.iconify.design/lucide:database.svg?color=%23E67E22" height="20" valign="middle"/> Backend & Persistence
 <p align="left">
   <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" height="45" /></a> &nbsp;
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="45" /></a> &nbsp;
@@ -91,7 +91,7 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 </p>
 <br />
 
-### <img src="https://api.iconify.design/lucide:cloud.svg?color=%233498DB" height="20"/> Cloud & Connectivity
+### <img src="https://api.iconify.design/lucide:cloud.svg?color=%233498DB" height="20" valign="middle"/> Cloud & Connectivity
 <p align="left">
   <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="45" /></a> &nbsp;
   <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="45" /></a> &nbsp;
@@ -103,7 +103,7 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 <br />
 
 <!-- ENGINEERING IMPACT Section -->
-## <img src="https://api.iconify.design/lucide:award.svg?color=%23F1C40F" height="25"/> Specialized Expertise & Impact
+## <img src="https://api.iconify.design/lucide:award.svg?color=%23F1C40F" height="25" valign="middle"/> Specialized Expertise & Impact
 
 <table style="width:100%; border:none;">
 <tr style="border:none;">
@@ -144,7 +144,7 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 <br />
 
 <!-- PROFESSIONAL TIMELINE -->
-## <img src="https://api.iconify.design/lucide:briefcase.svg?color=%23A04000" height="25"/> Professional Timeline
+## <img src="https://api.iconify.design/lucide:briefcase.svg?color=%23A04000" height="25" valign="middle"/> Professional Timeline
 
 ### <img src="https://api.iconify.design/lucide:building-2.svg?color=%232E86C1" height="18"/> **The Anantkaal** — *Full Stack Product Engineer* (Mar 2023 – Present)
 Leading end-to-end multi-platform development. Overseeing cloud deployments (AWS, Firebase), custom PDF/Excel engine generators, and deeply intertwined mobile-to-hardware protocols.
@@ -161,7 +161,7 @@ Integrated scalable Razorpay payment structures and 3rd-party real-time low-late
 <br />
 
 <!-- GITHUB OVERVIEW SECTION -->
-## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2327AE60" height="25"/> Overview
+## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2327AE60" height="25" valign="middle"/> Overview
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-ptl&theme=tokyo-night&hide_border=true&bg_color=0D1117&cache_bust=2" width="100%" />
