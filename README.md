@@ -24,7 +24,17 @@
 <tr style="border:none;">
 <td width="55%" style="border:none;" valign="top">
 
-## <img src="https://api.iconify.design/lucide:user-2.svg?color=%232E86C1" height="48" align="center"/> Who Am I?
+<table style="border:none; border-collapse:collapse; width: 100%;">
+  <tr style="border:none;">
+    <td style="border:none; padding: 0; width: 45px;">
+      <img src="https://api.iconify.design/lucide:user-2.svg?color=%232E86C1" height="45" />
+    </td>
+    <td style="border:none; padding: 0; padding-left: 15px;">
+      <h2 style="margin: 0; border:none;">Who Am I?</h2>
+    </td>
+  </tr>
+</table>
+
 
 I'm a **Full Stack Product Engineer** with 3+ years of experience transforming complex ideas into production-ready platforms. While many developers focus on basic interfaces, I thrive on solving **hard technical pipelines**—from multi-tenant AI backends to native background OS integrations.
 
@@ -36,7 +46,17 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 </td>
 <td width="45%" style="border:none;" valign="top">
 
-## <img src="https://api.iconify.design/lucide:zap.svg?color=%23F1C40F" height="48" align="center"/> Activity Streak
+<table style="border:none; border-collapse:collapse; width: 100%;">
+  <tr style="border:none;">
+    <td style="border:none; padding: 0; width: 45px;">
+      <img src="https://api.iconify.design/lucide:zap.svg?color=%23F1C40F" height="45" />
+    </td>
+    <td style="border:none; padding: 0; padding-left: 15px;">
+      <h2 style="margin: 0; border:none;">Activity Streak</h2>
+    </td>
+  </tr>
+</table>
+
 <a href="https://github.com/Akash-ptl">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-ptl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
 </a>
@@ -45,7 +65,17 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 </tr>
 </table>
 
-## <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2327AE60" height="48" align="center"/> Technology Arsenal
+<table style="border:none; border-collapse:collapse; width: 100%;">
+  <tr style="border:none;">
+    <td style="border:none; padding: 0; width: 45px;">
+      <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2327AE60" height="45" />
+    </td>
+    <td style="border:none; padding: 0; padding-left: 15px;">
+      <h2 style="margin: 0; border:none;">Technology Arsenal</h2>
+    </td>
+  </tr>
+</table>
+
 
 To bring complex architectures to life, I utilize a high-performance ecosystem. No congestion, just pure visibility.
 
@@ -90,7 +120,17 @@ To bring complex architectures to life, I utilize a high-performance ecosystem. 
 
 ---
 
-## <img src="https://api.iconify.design/lucide:award.svg?color=%23F1C40F" height="48" align="center"/> Specialized Expertise & Impact
+<table style="border:none; border-collapse:collapse; width: 100%;">
+  <tr style="border:none;">
+    <td style="border:none; padding: 0; width: 45px;">
+      <img src="https://api.iconify.design/lucide:award.svg?color=%23F1C40F" height="45" />
+    </td>
+    <td style="border:none; padding: 0; padding-left: 15px;">
+      <h2 style="margin: 0; border:none;">Specialized Expertise & Impact</h2>
+    </td>
+  </tr>
+</table>
+
 
 ### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23CB4335" height="38" align="center"/> Intelligence & Automation
 - **Gospel Application**: Built a comprehensive AI mobile app embedding text-to-speech, rich voice generation, and semantic chat histories using on-device and cloud capabilities.
@@ -115,7 +155,17 @@ To bring complex architectures to life, I utilize a high-performance ecosystem. 
 
 ---
 
-## <img src="https://api.iconify.design/lucide:briefcase.svg?color=%23A04000" height="48" align="center"/> Professional Timeline
+<table style="border:none; border-collapse:collapse; width: 100%;">
+  <tr style="border:none;">
+    <td style="border:none; padding: 0; width: 45px;">
+      <img src="https://api.iconify.design/lucide:briefcase.svg?color=%23A04000" height="45" />
+    </td>
+    <td style="border:none; padding: 0; padding-left: 15px;">
+      <h2 style="margin: 0; border:none;">Professional Timeline</h2>
+    </td>
+  </tr>
+</table>
+
 
 Everything you need to know about my journey, pre-opened and crystal clear.
 
@@ -147,7 +197,17 @@ Integrated scalable Razorpay payment structures and 3rd-party real-time low-late
 
 ---
 
-## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2327AE60" height="48" align="center"/> Performance Metrics
+<table style="border:none; border-collapse:collapse; width: 100%;">
+  <tr style="border:none;">
+    <td style="border:none; padding: 0; width: 45px;">
+      <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2327AE60" height="45" />
+    </td>
+    <td style="border:none; padding: 0; padding-left: 15px;">
+      <h2 style="margin: 0; border:none;">Performance Metrics</h2>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-ptl&theme=tokyo-night&hide_border=true&bg_color=0D1117&cache_bust=1&area=true" width="100%" />
