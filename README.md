@@ -176,12 +176,18 @@ To bring architectures to life, I utilize the following high-performance ecosyst
 
 <p align="center">
   <a href="https://gitlab.com/akashkalathiya46">
-    <img src="https://gitlab-readme-stats.vercel.app/api?username=akashkalathiya46&show_icons=true&theme=tokyonight" alt="GitLab Stats" />
+    <img src="https://img.shields.io/badge/GitLab-Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Status-Synced_to_GitHub-success?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
-  <i>Syncing active repositories and contributions across platforms for a unified development timeline.</i>
+  <img src="https://img.shields.io/badge/GitLab_Activity-Heavy-orange?style=flat-square&logo=gitlab" />
+  <img src="https://img.shields.io/badge/Platform-Multi_Cloud-blue?style=flat-square&logo=google-cloud" />
+</p>
+
+<p align="center">
+  <i>The activity above is automatically synchronized to my GitHub contribution graph for a unified impact analysis.</i>
 </p>
 
 <!-- FOOTER -->
