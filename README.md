@@ -22,22 +22,21 @@
 <br />
 
 <!-- INTRO & STREAK SECTION -->
-<table style="border:none; width:100%;">
+<table style="border:none; width:100%;" border="0" cellpadding="0" cellspacing="0">
   <tr style="border:none;">
-    <td width="60%" style="border:none; vertical-align: top; padding-right: 20px;">
-      <h2><img src="https://api.iconify.design/lucide:user-2.svg?color=%232E86C1" height="32" valign="middle"/> Who Am I?</h2>
-      <p>I'm a <b>Full Stack Product Engineer</b> with 3+ years of experience transforming complex ideas into production-ready platforms. While many developers focus on basic interfaces, I thrive on solving <b>hard technical pipelines</b>—from multi-tenant AI backends to native background OS integrations.</p>
+    <td width="55%" style="border:none; vertical-align: top; padding: 10px;">
+      <h2 align="left"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/user-2.svg" height="40" width="40" style="filter: invert(41%) sepia(87%) saturate(464%) hue-rotate(164deg) brightness(91%) contrast(90%);"/> &nbsp; Who Am I?</h2>
+      <p>I'm a <b>Full Stack Product Engineer</b> with 3+ years of experience transforming complex ideas into production-ready platforms. I thrive on solving <b>hard technical pipelines</b>—from multi-tenant AI backends to native background OS integrations.</p>
       <ul>
-        <li><b>Current Role</b>: Engineering robust, scalable applications at <b>The Anantkaal</b>.</li>
-        <li><b>Superpowers</b>: Real-time architectures, Kiosk Mode behaviors, Conversational AI deployments, and deep physical-world connections (BLE, MQTT, ESP32).</li>
-        <li><b>Mission</b>: Ready to tackle the most <b>complex and hardest technical tasks</b> for apps—everything from custom OS-level background services to high-stakes fintech engines.</li>
-        <li><b>Motto</b>: <i>"I enjoy solving hard algorithmic problems more than building simple UI demos."</i></li>
+        <li><b>Current Role</b>: Scalable applications at <b>The Anantkaal</b>.</li>
+        <li><b>Superpowers</b>: AI deployments, Kiosk Mode, and <b>IoT (ESP32/BLE)</b>.</li>
+        <li><b>Mission</b>: Ready for the <b>hardest technical tasks</b>—custom OS-level services to high-stakes engines.</li>
       </ul>
     </td>
-    <td width="40%" style="border:none; vertical-align: top;">
-      <h2><img src="https://api.iconify.design/lucide:zap.svg?color=%23F1C40F" height="32" valign="middle"/> Streak</h2>
+    <td width="45%" style="border:none; vertical-align: top; padding: 10px;">
+      <h2 align="left"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/zap.svg" height="40" width="40" style="filter: invert(85%) sepia(80%) saturate(600%) hue-rotate(3deg) brightness(100%) contrast(100%);"/> &nbsp; Streak</h2>
       <a href="https://github.com/Akash-ptl">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-ptl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-ptl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="380" />
       </a>
     </td>
   </tr>
@@ -46,9 +45,9 @@
 <br />
 
 <!-- TECHNOLOGY ARSENAL -->
-<h2><img src="https://api.iconify.design/lucide:settings.svg?color=%237F8C8D" height="32" valign="middle"/> Technology Arsenal</h2>
+<h2 align="left"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/settings.svg" height="40" width="40" style="filter: grayscale(100%) brightness(150%);"/> &nbsp; Technology Arsenal</h2>
 
-<h3><img src="https://api.iconify.design/lucide:terminal.svg?color=%231ABC9C" height="26" valign="middle"/> Code & Architecture</h3>
+<h3 align="left"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/terminal.svg" height="30" width="30"/> &nbsp; Code & Architecture</h3>
 <p align="left">
   <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" height="45" /></a> &nbsp;
   <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" height="45" /></a> &nbsp;
@@ -62,7 +61,7 @@
 </p>
 <br />
 
-<h3><img src="https://api.iconify.design/lucide:cpu.svg?color=%239B59B6" height="26" valign="middle"/> AI & Intelligence</h3>
+<h3 align="left"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/cpu.svg" height="30" width="30"/> &nbsp; AI & Intelligence</h3>
 <p align="left">
   <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="35" /></a> &nbsp;
   <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="35" /></a> &nbsp;
@@ -74,7 +73,7 @@
 </p>
 <br />
 
-<h3><img src="https://api.iconify.design/lucide:database.svg?color=%23E67E22" height="26" valign="middle"/> Backend & Persistence</h3>
+<h3 align="left"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/database.svg" height="30" width="30"/> &nbsp; Backend & Persistence</h3>
 <p align="left">
   <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" height="45" /></a> &nbsp;
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="45" /></a> &nbsp;
@@ -85,47 +84,33 @@
 </p>
 <br />
 
-<h3><img src="https://api.iconify.design/lucide:cloud.svg?color=%233498DB" height="26" valign="middle"/> Cloud & Connectivity</h3>
-<p align="left">
-  <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="45" /></a> &nbsp;
-  <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="45" /></a> &nbsp;
-  <a href="https://www.hostinger.com"><img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" height="40" /></a> &nbsp;
-  <a href="https://termius.com"><img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white" height="40" /></a> &nbsp;
-  <a href="https://mqtt.org"><img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="40" /></a>
-</p>
-
-<br />
-
-<!-- ENGINEERING IMPACT Section -->
-<h2><img src="https://api.iconify.design/lucide:award.svg?color=%23F1C40F" height="32" valign="middle"/> Specialized Expertise & Impact</h2>
+<!-- SPECIALIZED IMPACT -->
+<h2 align="left"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/award.svg" height="40" width="40" style="filter: invert(85%) sepia(80%) saturate(600%) hue-rotate(3deg) brightness(100%) contrast(100%);"/> &nbsp; Specialized Expertise & Impact</h2>
 
 <table style="width:100%; border:none;">
 <tr style="border:none;">
 <td width="50%" style="border:none; vertical-align: top;">
-<h3><img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%239B59B6" height="24" valign="middle"/> Intelligence & Automation</h3>
+<h3><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/brain-circuit.svg" height="30" width="30"/> &nbsp; Intelligence & Automation</h3>
 <ul>
-  <li><b>Gospel Application</b>: Built a comprehensive AI mobile app embedding text-to-speech, rich voice generation, and semantic chat histories.</li>
-  <li><b>Enterprise AI Backends</b>: Designed Python backends with Groq/ChatGPT integrations and dynamic guardrails.</li>
-  <li><b>Trading & Fintech</b>: Engineered algorithmic trading bots and custom dashboards.</li>
+  <li><b>Gospel AI</b>: Rich voice generation & semantic chat.</li>
+  <li><b>Enterprise AI</b>: Groq/ChatGPT backend logic.</li>
 </ul>
-
-<h3><img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%23E74C3C" height="24" valign="middle"/> Gaming & Interactive</h3>
+<h3><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/gamepad-2.svg" height="30" width="30"/> &nbsp; Gaming & Interactive</h3>
 <ul>
-  <li><b>2D Game Engineering</b>: Developed high-performance multiplayer games in Flutter (Ludo, Snake, Chess).</li>
-  <li><b>Kiosk Mode</b>: Implementing low-level behaviors and fully responsive UIs for custom hardware.</li>
+  <li><b>2D Multiplayer</b>: Ludo, Snake, Chess in Flutter.</li>
+  <li><b>Kiosk Systems</b>: Custom OS-level behaviors.</li>
 </ul>
 </td>
 <td width="50%" style="border:none; vertical-align: top;">
-<h3><img src="https://api.iconify.design/lucide:smartphone.svg?color=%232ECC71" height="24" valign="middle"/> Deep Mobile & OS Integration</h3>
+<h3><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/smartphone.svg" height="30" width="30"/> &nbsp; Deep Mobile & OS Integration</h3>
 <ul>
-  <li><b>Background SMS Automation</b>: Devised continuous background services for Android Native Channels.</li>
-  <li><b>Native Channels</b>: Writing custom Kotlin/Swift bridges for GPS, thermal, and persistent services.</li>
+  <li><b>Background Automation</b>: Persistent Android services.</li>
+  <li><b>Native Bridges</b>: Kotlin/Swift for hard integrations.</li>
 </ul>
-
-<h3><img src="https://api.iconify.design/lucide:plug.svg?color=%233498DB" height="24" valign="middle"/> Physical World Integration (IoT)</h3>
+<h3><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/plug.svg" height="30" width="30"/> &nbsp; Physical World (IoT)</h3>
 <ul>
-  <li><b>IoT Ecosystems</b>: Low-latency interactio between Flutter and ESP32 using BLE, MQTT, and AWS.</li>
-  <li><b>Hardware Control</b>: Custom Arduino/C++ firmware for ESP32 devices.</li>
+  <li><b>IoT Eco</b>: Flutter-to-ESP32 via BLE/MQTT.</li>
+  <li><b>Firmware</b>: Arduino/C++ for custom hardware.</li>
 </ul>
 </td>
 </tr>
@@ -134,24 +119,21 @@
 <br />
 
 <!-- PROFESSIONAL TIMELINE -->
-<h2><img src="https://api.iconify.design/lucide:briefcase.svg?color=%23A04000" height="32" valign="middle"/> Professional Timeline</h2>
+<h2 align="left"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/briefcase.svg" height="40" width="40" style="filter: invert(25%) sepia(90%) saturate(1200%) hue-rotate(2deg) brightness(85%) contrast(95%);"/> &nbsp; Professional Timeline</h2>
 
-<h3><img src="https://api.iconify.design/lucide:building-2.svg?color=%232E86C1" height="24" valign="middle"/> <b>The Anantkaal</b> — <i>Full Stack Product Engineer</i> (Mar 2023 – Present)</h3>
-<p>Leading end-to-end multi-platform development. Overseeing cloud deployments (AWS, Firebase), custom PDF/Excel engine generators, and deeply intertwined mobile-to-hardware protocols.</p>
+<h3><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/building-2.svg" height="30" width="30"/> &nbsp; <b>The Anantkaal</b> — <i>Full Stack Engineer</i> (2023 – Present)</h3>
+<p>Leading end-to-end multi-platform development and IoT protocols.</p>
 
-<h3><img src="https://api.iconify.design/lucide:globe.svg?color=%2327AE60" height="24" valign="middle"/> <b>Independent Freelance Engineer</b> — <i>Full Stack & Mobile Architecture</i> (2023 – Present)</h3>
-<p>Partnering with clients to build and deploy robust production applications, specializing in rapid MVP iteration and AI feature integrations.</p>
+<h3><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/globe.svg" height="30" width="30"/> &nbsp; <b>Independent Freelance Engineer</b> (2023 – Present)</h3>
+<p>MVP iteration and AI feature integrations for global clients.</p>
 
-<h3><img src="https://api.iconify.design/lucide:brain.svg?color=%239B59B6" height="24" valign="middle"/> <b>KGE Technologies Pvt Ltd</b> — <i>AI Backend Engineer & Flutter App Developer</i> (2023 & 2025)</h3>
-<p>Architecting high-performance background tracking and core multi-tenant session-based AI backends with dynamic embedding models.</p>
-
-<h3><img src="https://api.iconify.design/lucide:rocket.svg?color=%23E67E22" height="24" valign="middle"/> <b>Flyweis Technology</b> — <i>Flutter Developer</i> (Feb 2024 – Sep 2024)</h3>
-<p>Integrated scalable Razorpay structures and real-time voice/video WebRTC communications into high-fidelity applications.</p>
+<h3><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/brain.svg" height="30" width="30"/> &nbsp; <b>KGE Technologies</b> — <i>AI Developer</i> (2023 & 2025)</h3>
+<p>Architecting session-based AI backends and tracking components.</p>
 
 <br />
 
 <!-- GITHUB OVERVIEW SECTION -->
-<h2><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2327AE60" height="32" valign="middle"/> Overview</h2>
+<h2 align="left"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/bar-chart-3.svg" height="40" width="40" style="filter: invert(60%) sepia(85%) saturate(300%) hue-rotate(100deg) brightness(85%) contrast(95%);"/> &nbsp; Overview</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-ptl&theme=tokyo-night&hide_border=true&bg_color=0D1117&cache_bust=2" width="100%" />
