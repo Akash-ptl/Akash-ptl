@@ -50,8 +50,8 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 <br />
 
 <!-- TECHNOLOGY ARSENAL -->
-<details open>
-<summary><h2><img src="https://api.iconify.design/lucide:settings.svg?color=%237F8C8D" height="25"/> Technology Arsenal</h2></summary>
+<br />
+## <img src="https://api.iconify.design/lucide:settings.svg?color=%237F8C8D" height="25"/> Technology Arsenal
 <br />
 
 ### <img src="https://api.iconify.design/lucide:terminal.svg?color=%231ABC9C" height="20"/> Code & Architecture
@@ -99,7 +99,6 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
   <a href="https://termius.com"><img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white" height="40" /></a> &nbsp;
   <a href="https://mqtt.org"><img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="40" /></a>
 </p>
-</details>
 
 <br />
 
@@ -147,25 +146,17 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 <!-- PROFESSIONAL TIMELINE -->
 ## <img src="https://api.iconify.design/lucide:briefcase.svg?color=%23A04000" height="25"/> Professional Timeline
 
-<details>
-  <summary><b>🏢 The Anantkaal</b> — <i>Full Stack Product Engineer</i> (Mar 2023 – Present)</summary>
-  <p>Leading end-to-end multi-platform development. Overseeing cloud deployments (AWS, Firebase), custom PDF/Excel engine generators, and deeply intertwined mobile-to-hardware protocols.</p>
-</details>
+### <img src="https://api.iconify.design/lucide:building-2.svg?color=%232E86C1" height="18"/> **The Anantkaal** — *Full Stack Product Engineer* (Mar 2023 – Present)
+Leading end-to-end multi-platform development. Overseeing cloud deployments (AWS, Firebase), custom PDF/Excel engine generators, and deeply intertwined mobile-to-hardware protocols.
 
-<details>
-  <summary><b>🌍 Independent Freelance Engineer</b> — <i>Full Stack & Mobile Architecture</i> (2023 – Present)</summary>
-  <p>Partnering with clients to build and deploy robust production applications, specializing in rapid MVP iteration, AI feature integrations, and complex scalable mobile architectures.</p>
-</details>
+### <img src="https://api.iconify.design/lucide:globe.svg?color=%2327AE60" height="18"/> **Independent Freelance Engineer** — *Full Stack & Mobile Architecture* (2023 – Present)
+Partnering with clients to build and deploy robust production applications, specializing in rapid MVP iteration, AI feature integrations, and complex scalable mobile architectures.
 
-<details>
-  <summary><b>🧠 KGE Technologies Pvt Ltd</b> — <i>AI Backend Engineer & Flutter App Developer</i> (2023 & 2025)</summary>
-  <p>First architecting high-performance background tracking components, then transitioning to engineer core multi-tenant session-based AI backends with dynamic embedding models.</p>
-</details>
+### <img src="https://api.iconify.design/lucide:brain.svg?color=%239B59B6" height="18"/> **KGE Technologies Pvt Ltd** — *AI Backend Engineer & Flutter App Developer* (2023 & 2025)
+First architecting high-performance background tracking components, then transitioning to engineer core multi-tenant session-based AI backends with dynamic embedding models.
 
-<details>
-  <summary><b>🚀 Flyweis Technology</b> — <i>Flutter Developer</i> (Feb 2024 – Sep 2024)</summary>
-  <p>Integrated scalable Razorpay payment structures and 3rd-party real-time low-latency voice/video WebRTC communications into high-fidelity production applications.</p>
-</details>
+### <img src="https://api.iconify.design/lucide:rocket.svg?color=%23E67E22" height="18"/> **Flyweis Technology** — *Flutter Developer* (Feb 2024 – Sep 2024)
+Integrated scalable Razorpay payment structures and 3rd-party real-time low-latency voice/video WebRTC communications into high-fidelity production applications.
 
 <br />
 
