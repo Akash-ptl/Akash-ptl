@@ -157,17 +157,28 @@ To bring architectures to life, I utilize the following high-performance ecosyst
 
 ---
 
-## 📊 Overview
+<table align="center" style="border:none;">
+<tr style="border:none;">
+<td width="100%" style="border:none;" valign="top">
 
+### 🏗️ Engineering Flow & Growth 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-ptl&theme=tokyo-night&hide_border=true&bg_color=0D1117&cache_bust=1" width="100%" />
+  <img src="metrics.plugin.isocalendar.fullyear.svg" width="100%" alt="Isometric Calendar - Full Year Building View" />
 </p>
 
+</td>
+</tr>
+<tr style="border:none;">
+<td width="100%" style="border:none;" valign="top">
+
+### 📊 Performance Metrics & Language Pulse
 <p align="center">
-  <a href="https://github.com/Akash-ptl">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akash-ptl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&cache_bust=1" />
-  </a>
+  <img src="github-metrics.svg" width="100%" alt="General Stats & Languages" />
 </p>
+
+</td>
+</tr>
+</table>
 
 
 <!-- FOOTER -->
