@@ -22,27 +22,23 @@
 <br />
 
 <!-- INTRO & STREAK SECTION -->
-<table align="center" style="border:none; width:100%;">
+<table style="border:none; width:100%;">
   <tr style="border:none;">
     <td width="60%" style="border:none; vertical-align: top; padding-right: 20px;">
-      
-<h2><img src="https://api.iconify.design/lucide:user-2.svg?color=%232E86C1" height="25" valign="middle"/> Who Am I?</h2>
-
-I'm a **Full Stack Product Engineer** with 3+ years of experience transforming complex ideas into production-ready platforms. While many developers focus on basic interfaces, I thrive on solving **hard technical pipelines**—from multi-tenant AI backends to native background OS integrations.
-
-*   **Current Role**: Engineering robust, scalable applications at **The Anantkaal**.
-*   **Superpowers**: Real-time architectures, Kiosk Mode behaviors, Conversational AI deployments, and deep physical-world connections (BLE, MQTT, ESP32).
-*   **Mission**: Ready to tackle the most **complex and hardest technical tasks** for apps—everything from custom OS-level background services to high-stakes fintech engines.
-*   **Motto**: *"I enjoy solving hard algorithmic problems more than building simple UI demos."*
-
+      <h2><img src="https://api.iconify.design/lucide:user-2.svg?color=%232E86C1" height="32" valign="middle"/> Who Am I?</h2>
+      <p>I'm a <b>Full Stack Product Engineer</b> with 3+ years of experience transforming complex ideas into production-ready platforms. While many developers focus on basic interfaces, I thrive on solving <b>hard technical pipelines</b>—from multi-tenant AI backends to native background OS integrations.</p>
+      <ul>
+        <li><b>Current Role</b>: Engineering robust, scalable applications at <b>The Anantkaal</b>.</li>
+        <li><b>Superpowers</b>: Real-time architectures, Kiosk Mode behaviors, Conversational AI deployments, and deep physical-world connections (BLE, MQTT, ESP32).</li>
+        <li><b>Mission</b>: Ready to tackle the most <b>complex and hardest technical tasks</b> for apps—everything from custom OS-level background services to high-stakes fintech engines.</li>
+        <li><b>Motto</b>: <i>"I enjoy solving hard algorithmic problems more than building simple UI demos."</i></li>
+      </ul>
     </td>
     <td width="40%" style="border:none; vertical-align: top;">
-      
-<h2><img src="https://api.iconify.design/lucide:zap.svg?color=%23F1C40F" height="25" valign="middle"/> Streak</h2>
-<a href="https://github.com/Akash-ptl">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-ptl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
-</a>
-
+      <h2><img src="https://api.iconify.design/lucide:zap.svg?color=%23F1C40F" height="32" valign="middle"/> Streak</h2>
+      <a href="https://github.com/Akash-ptl">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-ptl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -50,9 +46,9 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 <br />
 
 <!-- TECHNOLOGY ARSENAL -->
-<h2><img src="https://api.iconify.design/lucide:settings.svg?color=%237F8C8D" height="25" valign="middle"/> Technology Arsenal</h2>
+<h2><img src="https://api.iconify.design/lucide:settings.svg?color=%237F8C8D" height="32" valign="middle"/> Technology Arsenal</h2>
 
-### <img src="https://api.iconify.design/lucide:terminal.svg?color=%231ABC9C" height="20" valign="middle"/> Code & Architecture
+<h3><img src="https://api.iconify.design/lucide:terminal.svg?color=%231ABC9C" height="26" valign="middle"/> Code & Architecture</h3>
 <p align="left">
   <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" height="45" /></a> &nbsp;
   <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" height="45" /></a> &nbsp;
@@ -66,7 +62,7 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 </p>
 <br />
 
-### <img src="https://api.iconify.design/lucide:cpu.svg?color=%239B59B6" height="20" valign="middle"/> AI & Intelligence
+<h3><img src="https://api.iconify.design/lucide:cpu.svg?color=%239B59B6" height="26" valign="middle"/> AI & Intelligence</h3>
 <p align="left">
   <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="35" /></a> &nbsp;
   <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="35" /></a> &nbsp;
@@ -78,7 +74,7 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 </p>
 <br />
 
-### <img src="https://api.iconify.design/lucide:database.svg?color=%23E67E22" height="20" valign="middle"/> Backend & Persistence
+<h3><img src="https://api.iconify.design/lucide:database.svg?color=%23E67E22" height="26" valign="middle"/> Backend & Persistence</h3>
 <p align="left">
   <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" height="45" /></a> &nbsp;
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="45" /></a> &nbsp;
@@ -89,7 +85,7 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 </p>
 <br />
 
-### <img src="https://api.iconify.design/lucide:cloud.svg?color=%233498DB" height="20" valign="middle"/> Cloud & Connectivity
+<h3><img src="https://api.iconify.design/lucide:cloud.svg?color=%233498DB" height="26" valign="middle"/> Cloud & Connectivity</h3>
 <p align="left">
   <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="45" /></a> &nbsp;
   <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="45" /></a> &nbsp;
@@ -101,65 +97,61 @@ I'm a **Full Stack Product Engineer** with 3+ years of experience transforming c
 <br />
 
 <!-- ENGINEERING IMPACT Section -->
-<h2><img src="https://api.iconify.design/lucide:award.svg?color=%23F1C40F" height="25" valign="middle"/> Specialized Expertise & Impact</h2>
+<h2><img src="https://api.iconify.design/lucide:award.svg?color=%23F1C40F" height="32" valign="middle"/> Specialized Expertise & Impact</h2>
 
 <table style="width:100%; border:none;">
 <tr style="border:none;">
 <td width="50%" style="border:none; vertical-align: top;">
+<h3><img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%239B59B6" height="24" valign="middle"/> Intelligence & Automation</h3>
+<ul>
+  <li><b>Gospel Application</b>: Built a comprehensive AI mobile app embedding text-to-speech, rich voice generation, and semantic chat histories.</li>
+  <li><b>Enterprise AI Backends</b>: Designed Python backends with Groq/ChatGPT integrations and dynamic guardrails.</li>
+  <li><b>Trading & Fintech</b>: Engineered algorithmic trading bots and custom dashboards.</li>
+</ul>
 
-### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%239B59B6" height="18" valign="middle"/> Intelligence & Automation
-- **Gospel Application**: Built a comprehensive AI mobile app embedding text-to-speech, rich voice generation, and semantic chat histories using on-device and cloud capabilities.
-- **Enterprise AI Backends**: Designed Python backends withGroq/ChatGPT integrations and dynamic guardrails.
-- **Trading & Fintech**: Engineered algorithmic trading bots and custom dashboards, automating complex market logic.
-
-### <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%23E74C3C" height="18" valign="middle"/> Gaming & Interactive
-- **2D Game Engineering**: Developed high-performance 2D multiplayer games in Flutter (Ludo, Snake, Chess), optimizing frame rates and real-time state sync.
-- **Kiosk Mode**: Implementing low-level **Kiosk Mode** behaviors and fully responsive UIs for custom hardware displays.
-
+<h3><img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%23E74C3C" height="24" valign="middle"/> Gaming & Interactive</h3>
+<ul>
+  <li><b>2D Game Engineering</b>: Developed high-performance multiplayer games in Flutter (Ludo, Snake, Chess).</li>
+  <li><b>Kiosk Mode</b>: Implementing low-level behaviors and fully responsive UIs for custom hardware.</li>
+</ul>
 </td>
 <td width="50%" style="border:none; vertical-align: top;">
+<h3><img src="https://api.iconify.design/lucide:smartphone.svg?color=%232ECC71" height="24" valign="middle"/> Deep Mobile & OS Integration</h3>
+<ul>
+  <li><b>Background SMS Automation</b>: Devised continuous background services for Android Native Channels.</li>
+  <li><b>Native Channels</b>: Writing custom Kotlin/Swift bridges for GPS, thermal, and persistent services.</li>
+</ul>
 
-### <img src="https://api.iconify.design/lucide:smartphone.svg?color=%232ECC71" height="18" valign="middle"/> Deep Mobile & OS Integration
-- **Background SMS Automation**: Devised continuous background services for Android Native Channels fetching APIs and transmitting SMS invisibly.
-- **Native Channels**: Writing custom Kotlin/Swift bridges for GPS tracking, thermal management, and persistent services.
-
-### <img src="https://api.iconify.design/lucide:plug.svg?color=%233498DB" height="18" valign="middle"/> Physical World Integration (IoT)
-- **IoT Ecosystems**: Low-latency interaction pipelines between Flutter and **ESP32** using **BLE**, **MQTT**, and **AWS IoT Core**.
-- **Hardware Control**: Custom Arduino/C++ firmware for ESP32 devices to work seamlessly with mobile interfaces.
-
+<h3><img src="https://api.iconify.design/lucide:plug.svg?color=%233498DB" height="24" valign="middle"/> Physical World Integration (IoT)</h3>
+<ul>
+  <li><b>IoT Ecosystems</b>: Low-latency interactio between Flutter and ESP32 using BLE, MQTT, and AWS.</li>
+  <li><b>Hardware Control</b>: Custom Arduino/C++ firmware for ESP32 devices.</li>
+</ul>
 </td>
 </tr>
 </table>
 
-### <img src="https://api.iconify.design/lucide:file-text.svg?color=%2334495E" height="18" valign="middle"/> Document & Workflow Automation
-- **High-Precision Engines**: Custom **Excel and PDF generation systems** with full styling and annotation support.
-- **n8n Orchestration**: Designing complex, self-healing automation workflows and multi-step AI agent pipelines using **n8n.io**.
-
-### <img src="https://api.iconify.design/lucide:zap.svg?color=%23DC7633" height="18" valign="middle"/> High-End Integrations
-- **Payments & Wallets**: Secure multi-provider structures like **Razorpay**, high-end crypto wallets, and 3rd-party banking APIs.
-- **Communications**: Real-time Video/Audio Calling SDKs (Aura/WebRTC), Chat SDKs, and Google Maps enterprise implementations.
-
 <br />
 
 <!-- PROFESSIONAL TIMELINE -->
-<h2><img src="https://api.iconify.design/lucide:briefcase.svg?color=%23A04000" height="25" valign="middle"/> Professional Timeline</h2>
+<h2><img src="https://api.iconify.design/lucide:briefcase.svg?color=%23A04000" height="32" valign="middle"/> Professional Timeline</h2>
 
-### <img src="https://api.iconify.design/lucide:building-2.svg?color=%232E86C1" height="18" valign="middle"/> **The Anantkaal** — *Full Stack Product Engineer* (Mar 2023 – Present)
-Leading end-to-end multi-platform development. Overseeing cloud deployments (AWS, Firebase), custom PDF/Excel engine generators, and deeply intertwined mobile-to-hardware protocols.
+<h3><img src="https://api.iconify.design/lucide:building-2.svg?color=%232E86C1" height="24" valign="middle"/> <b>The Anantkaal</b> — <i>Full Stack Product Engineer</i> (Mar 2023 – Present)</h3>
+<p>Leading end-to-end multi-platform development. Overseeing cloud deployments (AWS, Firebase), custom PDF/Excel engine generators, and deeply intertwined mobile-to-hardware protocols.</p>
 
-### <img src="https://api.iconify.design/lucide:globe.svg?color=%2327AE60" height="18" valign="middle"/> **Independent Freelance Engineer** — *Full Stack & Mobile Architecture* (2023 – Present)
-Partnering with clients to build and deploy robust production applications, specializing in rapid MVP iteration, AI feature integrations, and complex scalable mobile architectures.
+<h3><img src="https://api.iconify.design/lucide:globe.svg?color=%2327AE60" height="24" valign="middle"/> <b>Independent Freelance Engineer</b> — <i>Full Stack & Mobile Architecture</i> (2023 – Present)</h3>
+<p>Partnering with clients to build and deploy robust production applications, specializing in rapid MVP iteration and AI feature integrations.</p>
 
-### <img src="https://api.iconify.design/lucide:brain.svg?color=%239B59B6" height="18" valign="middle"/> **KGE Technologies Pvt Ltd** — *AI Backend Engineer & Flutter App Developer* (2023 & 2025)
-First architecting high-performance background tracking components, then transitioning to engineer core multi-tenant session-based AI backends with dynamic embedding models.
+<h3><img src="https://api.iconify.design/lucide:brain.svg?color=%239B59B6" height="24" valign="middle"/> <b>KGE Technologies Pvt Ltd</b> — <i>AI Backend Engineer & Flutter App Developer</i> (2023 & 2025)</h3>
+<p>Architecting high-performance background tracking and core multi-tenant session-based AI backends with dynamic embedding models.</p>
 
-### <img src="https://api.iconify.design/lucide:rocket.svg?color=%23E67E22" height="18" valign="middle"/> **Flyweis Technology** — *Flutter Developer* (Feb 2024 – Sep 2024)
-Integrated scalable Razorpay payment structures and 3rd-party real-time low-latency voice/video WebRTC communications into high-fidelity production applications.
+<h3><img src="https://api.iconify.design/lucide:rocket.svg?color=%23E67E22" height="24" valign="middle"/> <b>Flyweis Technology</b> — <i>Flutter Developer</i> (Feb 2024 – Sep 2024)</h3>
+<p>Integrated scalable Razorpay structures and real-time voice/video WebRTC communications into high-fidelity applications.</p>
 
 <br />
 
 <!-- GITHUB OVERVIEW SECTION -->
-<h2><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2327AE60" height="25" valign="middle"/> Overview</h2>
+<h2><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2327AE60" height="32" valign="middle"/> Overview</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-ptl&theme=tokyo-night&hide_border=true&bg_color=0D1117&cache_bust=2" width="100%" />
