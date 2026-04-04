@@ -176,7 +176,7 @@ To bring architectures to life, I utilize the following high-performance ecosyst
 
 <p align="center">
   <a href="https://gitlab.com/akashkalathiya46">
-    <img src="https://gitlab-stats.vercel.app/api?username=akashkalathiya46&show_icons=true&theme=tokyonight" alt="GitLab Stats" />
+    <img src="https://gitlab-readme-stats.vercel.app/api?username=akashkalathiya46&show_icons=true&theme=tokyonight" alt="GitLab Stats" />
   </a>
 </p>
 
