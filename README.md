@@ -87,7 +87,6 @@ To bring complex architectures to life, I utilize a high-performance ecosystem. 
   <a href="https://cursor.com"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="35"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Antigravity-6B4EFF?style=for-the-badge" height="35"/></a>
 </p>
-/p>
 
 ---
 
