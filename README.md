@@ -169,8 +169,24 @@ To bring architectures to life, I utilize the following high-performance ecosyst
   </a>
 </p>
 
+
+---
+
+## 📊 GitLab Ecosystem
+
+<p align="center">
+  <a href="https://gitlab.com/akashkalathiya46">
+    <img src="https://gitlab-stats.vercel.app/api?username=akashkalathiya46&show_icons=true&theme=tokyonight" alt="GitLab Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Syncing active repositories and contributions across platforms for a unified development timeline.</i>
+</p>
+
 <!-- FOOTER -->
 <br>
 <div align="center">
   <i><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Thank you for stopping by! Always open to connecting over new ideas and tough problems.</i>
 </div>
+
