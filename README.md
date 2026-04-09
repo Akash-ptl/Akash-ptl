@@ -27,7 +27,6 @@
 
 I'm a **Full Stack Flutter Developer** with 3+ years of experience specialized in architecting high-performance mobile systems and complex backend infrastructures. While many developers focus on basic Flutter layouts, I thrive on solving **hard technical pipelines**—from low-level native platform channels and 2D games to scalable AI backends and IoT-integrated mobile apps.
 
-*   **Current Role**: Engineering robust, scalable applications at **The Anantkaal**.
 *   **Superpowers**: Real-time architectures, Kiosk Mode behaviors, AI deployments, and physical-world connectivity (BLE, MQTT, ESP32).
 *   **Mission**: I am ready to tackle the most **complex and hardest technical tasks**—from custom OS services to high-stakes fintech engines.
 *   **Motto**: *"I enjoy solving hard algorithmic logic and backend scalability more than building simple UI demos."*
