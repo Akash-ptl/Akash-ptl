@@ -5,7 +5,7 @@
 
 <!-- DYNAMIC TYPING -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Innovative+Product+Architecture;Deep+AI+%26+Backend+Engineering;Native+OS+Integration;Building+the+Future+of+IoT" alt="Dynamic typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Scalable+Flutter+Architectures;Native+Platform+Channel+Engineering;Deep+AI+%26+Backend+Orchestration;Building+the+Future+of+IoT" alt="Dynamic typing headline" />
 </h3>
 
 <!-- SOCIAL BADGES -->
@@ -25,12 +25,12 @@
   <img src="https://api.iconify.design/lucide:user-2.svg?color=%232E86C1" height="42" align="absmiddle" alt="User icon"/>&nbsp; Who Am I?
 </h2>
 
-I'm a **Full Stack Flutter Developer** with 3+ years of experience transforming complex ideas into production-ready platforms. While many developers focus on basic interfaces, I thrive on solving **hard technical pipelines**—from multi-tenant AI backends to native background OS integrations.
+I'm a **Full Stack Flutter Developer** with 3+ years of experience specialized in architecting high-performance mobile systems and complex backend infrastructures. While many developers focus on basic Flutter layouts, I thrive on solving **hard technical pipelines**—from low-level native platform channels and 2D games to scalable AI backends and IoT-integrated mobile apps.
 
 *   **Current Role**: Engineering robust, scalable applications at **The Anantkaal**.
 *   **Superpowers**: Real-time architectures, Kiosk Mode behaviors, AI deployments, and physical-world connectivity (BLE, MQTT, ESP32).
 *   **Mission**: I am ready to tackle the most **complex and hardest technical tasks**—from custom OS services to high-stakes fintech engines.
-*   **Motto**: *"I enjoy solving hard algorithmic problems more than building simple UI demos."*
+*   **Motto**: *"I enjoy solving hard algorithmic logic and backend scalability more than building simple UI demos."*
 
 <h2 align="left">
   <img src="https://api.iconify.design/lucide:zap.svg?color=%23F1C40F" height="42" align="absmiddle" alt="Zap icon"/>&nbsp; Activity Streak
