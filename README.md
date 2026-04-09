@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Akash%20Kalathiya&fontSize=85&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Product%20Engineer%20|%20AI%20|%20Backend&descAlignY=55&descSize=25" width="100%" alt="Akash Kalathiya banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Akash%20Kalathiya&fontSize=85&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Flutter%20Developer%20|%20AI%20|%20Backend&descAlignY=55&descSize=25" width="100%" alt="Akash Kalathiya banner" />
 </p>
 
 <!-- DYNAMIC TYPING -->
@@ -25,7 +25,7 @@
   <img src="https://api.iconify.design/lucide:user-2.svg?color=%232E86C1" height="42" align="absmiddle" alt="User icon"/>&nbsp; Who Am I?
 </h2>
 
-I'm a **Full Stack Product Engineer** with 3+ years of experience transforming complex ideas into production-ready platforms. While many developers focus on basic interfaces, I thrive on solving **hard technical pipelines**—from multi-tenant AI backends to native background OS integrations.
+I'm a **Full Stack Flutter Developer** with 3+ years of experience transforming complex ideas into production-ready platforms. While many developers focus on basic interfaces, I thrive on solving **hard technical pipelines**—from multi-tenant AI backends to native background OS integrations.
 
 *   **Current Role**: Engineering robust, scalable applications at **The Anantkaal**.
 *   **Superpowers**: Real-time architectures, Kiosk Mode behaviors, AI deployments, and physical-world connectivity (BLE, MQTT, ESP32).
@@ -155,7 +155,7 @@ Text-only snapshot (in case badges fail to load): Flutter, Dart, Android, iOS, A
 Everything you need to know about my journey, pre-opened and crystal clear.
 
 <h4 align="left">
-  <img src="https://api.iconify.design/lucide:building-2.svg?color=%232E86C1" height="28" align="absmiddle" alt="Building icon"/>&nbsp; The Anantkaal — Full Stack Product Engineer
+  <img src="https://api.iconify.design/lucide:building-2.svg?color=%232E86C1" height="28" align="absmiddle" alt="Building icon"/>&nbsp; The Anantkaal — Full Stack Flutter Developer
 </h4>
 
 *Mar 2023 – Present*
