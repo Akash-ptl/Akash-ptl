@@ -36,7 +36,7 @@ I'm a **Full Stack Flutter Developer** with 3+ years of experience specialized i
 
 <p align="center">
   <a href="https://github.com/Akash-ptl">
-    <img src="https://streak-stats.demolab.com/?user=Akash-ptl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak stats" width="100%"/>
+    <img src="https://streak-stats.vercel.app/?user=Akash-ptl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak stats" width="100%"/>
   </a>
 </p>
 
