@@ -20,7 +20,6 @@
 ---
 
 <!-- INTRO AND STREAKS -->
-<!-- INTRO AND STREAKS -->
 <h2 align="left">
   <img src="https://api.iconify.design/lucide:user-2.svg?color=%232E86C1" height="42" align="absmiddle" alt="User icon"/>&nbsp; Who Am I?
 </h2>
@@ -37,7 +36,7 @@ I'm a **Full Stack Flutter Developer** with 3+ years of experience specialized i
 
 <p align="center">
   <a href="https://github.com/Akash-ptl">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-ptl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak stats" width="100%"/>
+    <img src="https://streak-stats.demolab.com/?user=Akash-ptl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak stats" width="100%"/>
   </a>
 </p>
 
@@ -205,7 +204,7 @@ Integrated scalable Razorpay payment structures and 3rd-party real-time low-late
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-ptl&theme=tokyo-night&hide_border=true&bg_color=0D1117&cache_bust=1&area=true" width="100%" alt="GitHub activity graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=Akash-ptl&theme=tokyo-night&hide_border=true&bg_color=0D1117&cache_bust=1&area=true" width="100%" alt="GitHub activity graph" />
 </p>
 
 <p align="center">
